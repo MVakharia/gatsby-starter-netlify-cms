@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Some thoughts about Overwatch going 5v5
-date: 2021-09-30T10:33:50.399Z
+date: 2021-09-25T11:33:14.001Z
 description: I had to write a description.
 featuredpost: false
 featuredimage: /img/ow2-img.jpg
